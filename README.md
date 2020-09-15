@@ -4,7 +4,7 @@
   <samp>
     I'm Niruhan Viswarupan :wave:
     <br><br>
-    I work as a Java :globe_with_meridians: developer. I have done many hardware projects at university (including designing an entire 16-bit processor!) and full stack development (MERN) projects as a hobby! You can explore them in my repos!
+    I work as a Java developer :coffee: . I have done many hardware projects at university (including designing an entire 16-bit processor!). I do full stack development (MERN) projects as a hobby! You can explore them in my repos!
     <br><br>
     I work at WSO2, an open source company. I love contributing to open source projects! :grin:
     <br><br>
